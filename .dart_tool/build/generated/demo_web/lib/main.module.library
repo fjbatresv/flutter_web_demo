@@ -1,1 +1,1 @@
-{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[]}
+{"isEntrypoint":true,"deps":["demo_web|lib/src/app.dart","flutter_web|lib/material.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[]}
